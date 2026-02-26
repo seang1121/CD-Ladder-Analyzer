@@ -3,6 +3,14 @@
 CD Ladder Simulator & Competitive Analysis
 Navy Federal vs. Top Competitors (Credit Unions & Banks)
 Feb 2026 Rates
+
+⚠️ DISCLAIMER:
+This tool is for educational purposes only and does NOT constitute financial advice.
+CD rates shown are approximate as of Feb 2026 and change frequently.
+Interest projections are hypothetical based on simple interest calculations.
+Before opening CDs or making savings decisions, consult with a licensed financial advisor or your 
+financial institution to discuss current rates, terms, FDIC/NCUA insurance limits, and the best strategy
+for your financial situation and goals.
 """
 
 import sys
