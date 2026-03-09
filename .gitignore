@@ -22,3 +22,7 @@ wheels/
 *.db
 .vscode/
 .idea/
+
+# Claude Code
+.claude/
+CLAUDE.local.md
