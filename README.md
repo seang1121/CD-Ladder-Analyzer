@@ -1,5 +1,8 @@
 # 🪜 CD Ladder Simulator
 
+![GitHub tag](https://img.shields.io/github/v/tag/seang1121/CD-Ladder-Analyzer)
+![License](https://img.shields.io/github/license/seang1121/CD-Ladder-Analyzer)
+
 **Compare CD rates, ladder strategies, and find the best institution for your savings.**
 
 Navy Federal vs. Top Competitors | Pentagon Federal | Connexus | Ally | Marcus | Vanguard
