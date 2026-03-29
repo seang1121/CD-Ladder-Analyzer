@@ -1,15 +1,15 @@
-# 🪜 CD Ladder Simulator
+> **[Live Dashboard](https://seang1121.github.io/CD-Ladder-Analyzer/)** | Compare CD rates and ladder strategies across top institutions. Find the best return for your savings.
 
-![GitHub tag](https://img.shields.io/github/v/tag/seang1121/CD-Ladder-Analyzer)
-![License](https://img.shields.io/github/license/seang1121/CD-Ladder-Analyzer)
+# CD Ladder Simulator
+
+![Institutions](https://img.shields.io/badge/institutions-6-brightgreen)
+![Strategies](https://img.shields.io/badge/strategies-4-blue)
+![Live Demo](https://img.shields.io/badge/demo-live-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 **Compare CD rates, ladder strategies, and find the best institution for your savings.**
 
 Navy Federal vs. Top Competitors | Pentagon Federal | Connexus | Ally | Marcus | Vanguard
-
-## 📊 Live Dashboard
-
-👉 **[View Live Dashboard](https://seang1121.github.io/CD-Ladder-Analyzer/)**
 
 ## Quick Start
 
@@ -23,6 +23,10 @@ Generates:
 - **Navy Federal deep dive** with rate advantages
 - **Maturity schedules** showing when funds unlock
 - **Recommendations** by eligibility & goals
+
+## Why CD Ladders?
+
+A CD ladder spreads your savings across certificates with staggered maturity dates, giving you regular access to your money while earning higher rates than a savings account.
 
 ## What is a CD Ladder?
 
